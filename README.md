@@ -25,3 +25,4 @@ This is a UI design for an airline reservation system built using React.js. The 
 ```bash
 npm create vite@latest
 ```
+## Credits : [IsraTech](https://www.youtube.com/@IsraTech1)
